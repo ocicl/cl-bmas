@@ -1,0 +1,10 @@
+* cl-bmas
+
+C2FFI generated bindings for BMAS
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/digikar99/cl-bmas.git   |
+| commit  | {"messa  |
+| systems | cl-bmas |
+|---------+-------------------------------------------|
+
