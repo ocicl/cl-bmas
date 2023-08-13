@@ -2,9 +2,8 @@
 
 C2FFI generated bindings for BMAS
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/digikar99/cl-bmas.git   |
-| commit  | 1b7d615  |
-| systems | cl-bmas |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------|
+| source  | git:https://github.com/digikar99/cl-bmas.git |
+| commit  | 1b7d615                                      |
+| systems | (bmas)                                       |
+|---------+----------------------------------------------|
