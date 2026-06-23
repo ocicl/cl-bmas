@@ -7,4 +7,4 @@ C2FFI generated bindings for BMAS
 | commit  | dcdc682                                      |
 | systems | bmas                                         |
 |---------+----------------------------------------------|
- 
+  
